@@ -112,27 +112,34 @@ We welcome contributions, feedback, and collaborations.
 For partnerships, custom audits, or enterprise engagements.
 
 
-Below are some screenshots of auditdapps self-audit beta display of recommendations and risk scoring ratio.
+Below are some screenshots of auditdapps self-audit(organization) beta display of recommendations and risk scoring ratio.
 
 ## 📹 Live Platform Preview
 
-The beta version of AuditDapps features an **interactive, role-based self-audit workflow**:
+The beta version of AuditDapps features an interactive, role-based self-audit workflow:
 
-1. **Agreement Stage** – Users agree to complete the audit honestly and accurately.  
-2. **Role Selection** – Choose *Developer* or *Organization* to load tailored checklists.  
-3. **Dynamic Questions** – Covers blockchain-specific and general security best practices (e.g., consensus mechanism, governance, deployment).  
-4. **Progress Tracking** – Visual progress indicator to encourage full completion.  
+1. **Agreement Stage** – Users agree to complete the audit honestly and accurately.
 
-<table>
-  <tr>
-    <td><img src="auditdapps_frames/frame_0.jpg" alt="AuditDapps Beta – Agreement Stage" width="100%"/></td>
-    <td><img src="auditdapps_frames/frame_60.jpg" alt="Role Selection" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="auditdapps_frames/frame_180.jpg" alt="Checklist Question Example" width="100%"/></td>
-    <td><img src="auditdapps_frames/frame_240.jpg" alt="Consensus Mechanism Options" width="100%"/></td>
-  </tr>
-</table>
+2. <img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/e8d9721c-60a0-4050-b252-5c2036a07473" />
+ 
+3. **Role Selection** – Choose *Developer* or *Organization* to load tailored checklists.
+
+4. <img width="1112" height="321" alt="Screenshot 2025-08-13 at 10 22 29" src="https://github.com/user-attachments/assets/924ffcc0-6ca2-46c5-a9b4-2101f94e5621" />
+ 
+5. **Dynamic Questions** – Covers blockchain-specific and general security best practices (e.g., consensus mechanism, governance, deployment).
+
+6. <img width="664" height="470" alt="Screenshot 2025-08-13 at 04 22 40" src="https://github.com/user-attachments/assets/1cf5f1d7-ed6e-4ad8-a169-1c214f0b2827" />
+
+7. **Progress Tracking** – Visual progress indicator to encourage full completion.
+and Recommendation and Visualization of Audit Report
+
+<img width="944" height="454" alt="Screenshot 2025-08-13 at 04 24 13" src="https://github.com/user-attachments/assets/572282f7-7a66-4b4e-82e9-a8f8c0864cc5" />
 
 
+<img width="948" height="309" alt="Screenshot 2025-08-13 at 04 23 48" src="https://github.com/user-attachments/assets/32d57be9-a7fc-4552-8805-4ae625c515db" />
+
+
+<img width="965" height="288" alt="Screenshot 2025-08-13 at 04 23 57" src="https://github.com/user-attachments/assets/06039b12-67cc-41f7-a5b1-63943390d328" />
+
+ 
 
