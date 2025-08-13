@@ -91,11 +91,13 @@ For partnerships, custom audits, or general inquirier
 below is screenshot of auditdapps organization self-audit and dashboard display of recommendation and risk scoring ratio.
 
 <img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/b7d43c97-688c-4b3b-b6e3-f0157ae47f08" />
-<img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/b383d6cc-fb08-4d38-bf03-36ee12641f93" />
 
 <img width="664" height="470" alt="Screenshot 2025-08-13 at 04 22 40" src="https://github.com/user-attachments/assets/c6336f63-3091-451c-b402-49e8eaaf1a3c" />
 <img width="948" height="309" alt="Screenshot 2025-08-13 at 04 23 48" src="https://github.com/user-attachments/assets/bb959be0-09fb-4919-9cd8-f9b21895ba61" />
 
+<img width="944" height="454" alt="Screenshot 2025-08-13 at 04 24 13" src="https://github.com/user-attachments/assets/a3f35cc1-5c1a-4ac1-8904-ab5b73c3a0ac" />
+
 <img width="965" height="288" alt="Screenshot 2025-08-13 at 04 23 57" src="https://github.com/user-attachments/assets/e1885b20-1764-4c6f-a361-a8c558d9110a" />
 
-<img width="965" height="288" alt="Screenshot 2025-08-13 at 04 23 57" src="https://github.com/user-attachments/assets/6139f996-fe18-445e-bce0-bbffbbacb04c" />
+
+
