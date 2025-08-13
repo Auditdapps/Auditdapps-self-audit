@@ -88,7 +88,7 @@ To contribute:
 
 For partnerships, custom audits, or general inquirier
 
-below is screenshot of auditdapps organization self-audit and dashboard display of recommendation and risk scoring ratio.
+below are some spinnet of auditdapps self-audit beta and dashboard display of recommendation and risk scoring ratio.
 
 <img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/b7d43c97-688c-4b3b-b6e3-f0157ae47f08" />
 
