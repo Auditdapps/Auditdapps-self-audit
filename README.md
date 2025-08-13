@@ -4,12 +4,12 @@
 Framework-Backed • AI-Enhanced • Research-Based Blockchain Security Auditing
 
 
-AuditDapps is a blockchain security SaaS platform that empowers developers, startups, and enterprises to self-audit decentralized applications (dApps) using globally recognized industry frameworks — ISO 27001, NIST, CIS Controls, OWASP, and blockchain-specific security controls. Dapps in this context implies to any application, Nft, Defi, token or tokenless application running on any blockchain or decentralized ledger.
+AuditDapps is a blockchain security SaaS platform that empowers developers, startups, and enterprises to self-audit decentralized applications (dApps) using globally recognized industry frameworks — ISO 27001, NIST, CIS Controls, OWASP, and blockchain-specific security controls. Dapps in this context imply any application, NFT, Defi, token, or tokenless application running on any blockchain or decentralized ledger.
 
 
-This enterprise in general is built on deep practical research in Cybersecurity, human factors & securing systems, ensuring its methodology is academically validated and human-centric.
+This enterprise, in general, is built on deep practical research in Cybersecurity, human factors & securing systems, ensuring its methodology is academically validated and human-centric.
 
-Our AI engine provides real-time, context-aware recommendations, but the audit process itself is rooted in established security standards giving you trust, structure, and compliance readiness from day one.
+Our AI engine provides real-time, context-aware recommendations, but the audit process itself is rooted in established security standards, giving you trust, structure, and compliance readiness from day one.
 
 
 
@@ -25,9 +25,9 @@ AuditDapps Self-Audit Tool
 🛡️ Tagline: Build safer. Launch smarter.
 
 🚀 What is AuditDapps?: AuditDapps is a blockchain security platform designed to help Web3 developers, startups, and organizations perform self-guided smart contract audits and security assessments with minimal friction. It currently offers a checklist-based self-audit tool that allows users to identify common vulnerabilities, improve security posture, and prepare for more in-depth manual audits if required before deployment.
-Auditdapps empower teams to catch critical security issues early before launching dApps, DeFi projects, Nft, or token/tokenless contracts.
+Auditdapps empower teams to catch critical security issues early before launching dApps, DeFi projects, NFTs, or token/tokenless contracts.
 
-Auditdapps aims to democratize access to blockchain security by offering flexible, scalable audit options without the high cost of traditional security firms. Bridging the gap between Web3 innovation and security best practices, through self-audit and on-demand manual auditing services.
+Auditdapps aims to democratize access to blockchain security by offering flexible, scalable audit options without the high cost of traditional security firms. Bridging the gap between Web3 innovation and security best practices through self-audit and on-demand manual auditing services.
 
 AuditDapps provides:
 
@@ -35,32 +35,32 @@ AuditDapps provides:
 ✅ Separate checklists tailored for developers and organizations.
 ✅ Manual auditing services for web3 projects.
 ✅ Automated code analysis(Implimented)
-✅ Risk scoring dashboards (Implimented)
-✅ real-time recommendation (Implimented)
+✅ Risk scoring dashboards (Implemented)
+✅ real-time recommendation (Implemented)
 ✅ Compliance checklists and policy frameworks(coming soon)
-✅ A repository of known dApp vulnerabilities and hacks for reference and how auditdapps could have helped.(implimented)
+✅ A repository of known dApp vulnerabilities and hacks for reference, and how auditdapps could have helped. (implemented)
 ✅ Future integration of more automated security tools (coming soon)
-Whether you are launching a DeFi protocol, NFT project, DAO, or any blockchain-based application, AuditDapps gives you a starting point to reduce risk and boost compliance.
+Whether you are launching a DeFi protocol, NFT project, DAO, or any other blockchain-based application, AuditDapps provides a starting point to reduce risk and enhance compliance.
 
 📋 Key Features
 
 ✔️ Developer-focused security questions.
 ✔️ Organizational security and compliance checklist.
 ✔️ Risk mitigation recommendations.
-✔️ Flexible and scalable applies to token and non-token projects.
+✔️ Flexible and scalable solutions apply to both token and non-token projects.
 ✔️ Easy to use.
 
 💡 How It Works
 
-Visit auditdapps.com (updated on live day 15 days to go)
-Users have to register to access their dashboard and other other feature.
+Visit auditdapps.com (updated on live day, 15 days to go)
+Users must register to access their dashboard and other features.
 Complete the self-audit checks based on your selected role:
 ➔ Developer
 ➔ Organization
 Receive tailored security insights in real time.
 Implement all recommendations  or
 Take action based on recommendations or request deeper manual audits.
-user feedback for improvement
+User feedback for improvement
 
 🌍 Who Should Use AuditDapps?
 
@@ -86,9 +86,9 @@ To contribute:
 
 📫 Contact: info@auditdapps.com
 
-For partnerships, custom audits, or general inquirier
+For partnerships, custom audits, or general inquiries
 
-below are some spinnet of auditdapps self-audit beta display of recommendation and risk scoring ratio.
+Below are some screenshots of auditdapps self-audit beta display of recommendations and risk scoring ratio.
 
 <img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/b7d43c97-688c-4b3b-b6e3-f0157ae47f08" />
 
