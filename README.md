@@ -13,12 +13,12 @@ Our AI engine provides real-time, context-aware recommendations, but the audit p
 
 
 
-Auditdapps-self-audit
-AuditDapps is a unique security self-assessment tool designed for Web3 developers, startups, and organizations. It helps you identify and address potential vulnerabilities and security gaps before deploying smart contracts or launching decentralized applications (dApps).
+**Auditdapps self-audit**
+
+AuditDapps self-audit is a unique security self-assessment tool designed for Web3 developers, startups, and organizations. It helps you identify and address potential vulnerabilities and security gaps before deploying smart contracts or launching decentralized applications (dApps).
 
 
 AuditDapps Self-Audit Tool
-
 
 
 🔗 Website: auditdapps.com (pending Lunch)
@@ -58,7 +58,7 @@ Complete the self-audit checks based on your selected role:
 ➔ Developer
 ➔ Organization
 Receive tailored security insights in real time.
-Impliment all recommendations  or
+Implement all recommendations  or
 Take action based on recommendations or request deeper manual audits.
 user feedback for improvement
 
@@ -88,7 +88,7 @@ To contribute:
 
 For partnerships, custom audits, or general inquirier
 
-below are some spinnet of auditdapps self-audit beta and dashboard display of recommendation and risk scoring ratio.
+below are some spinnet of auditdapps self-audit beta display of recommendation and risk scoring ratio.
 
 <img width="1120" height="418" alt="Screenshot 2025-08-13 at 04 21 09" src="https://github.com/user-attachments/assets/b7d43c97-688c-4b3b-b6e3-f0157ae47f08" />
 
